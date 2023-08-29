@@ -1,7 +1,7 @@
-# Repositorio-Demo
+# Material del diplomado
 Primer repositorio del diplomado
 
-##Introducción
+## Introducción
 En este repositorio encontrar las evidencias del diplomado **"Difusión y Divulgación cinetífica"**
 > Todo el contenido del repositorio cuenta con licencia Creative Commons
 >
