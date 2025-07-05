@@ -2,7 +2,7 @@
 Repositorio de evidencia del modulo III
 
 ## Introducción
-En este repositorio encontrar las evidencias del diplomado **"Difusión y Divulgación cinetífica"**
+En este repositorio encontrar las evidencias del diplomado **"Plataformas virtuales para la divulgación científica"**
 > Todo el contenido del repositorio cuenta con licencia Creative Commons
 >
 > Las licencia CC permiten:
