@@ -1,5 +1,5 @@
 # Material del diplomado
-Primer repositorio del diplomado
+Repositorio de evidencia del modulo III
 
 ## Introducción
 En este repositorio encontrar las evidencias del diplomado **"Difusión y Divulgación cinetífica"**
